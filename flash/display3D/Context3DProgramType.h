@@ -1,0 +1,10 @@
+#ifndef CONTEXT3DPROGRAMTYPE_H
+#define CONTEXT3DPROGRAMTYPE_H
+
+enum class Context3DProgramType
+{
+	FRAGMENT,
+	VERTEX,
+};
+
+#endif // CONTEXT3DPROGRAMTYPE_H

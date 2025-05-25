@@ -1,0 +1,8 @@
+#ifndef SHADOWMAPVERTEXSHADERHLSL_H
+#define SHADOWMAPVERTEXSHADERHLSL_H
+
+class QByteArray;
+
+QByteArray ShadowMapVertexShaderHLSL(bool, bool);
+
+#endif // SHADOWMAPVERTEXSHADERHLSL_H

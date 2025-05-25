@@ -1,0 +1,10 @@
+#ifndef CONTEXT3DRENDERMODE_H
+#define CONTEXT3DRENDERMODE_H
+
+enum class Context3DRenderMode
+{
+	AUTO,
+	SOFTWARE,
+};
+
+#endif // CONTEXT3DRENDERMODE_H
